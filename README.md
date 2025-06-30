@@ -3,6 +3,7 @@
 
 ### Code in folder "code"
 
+Made with GDSCript
 
 R for restart game
 
